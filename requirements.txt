@@ -1,2 +1,1 @@
-python-telegram-bot
-SQLAlchemypip install python-telegram-bot sqlalchemy
+ python-telegram-bot sqlalchemy
